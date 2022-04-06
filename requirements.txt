@@ -1,6 +1,6 @@
 Pillow==9.1.0
 keras==2.8.0
-numpy==1.19.2
+numpy==1.22.3
 pickleshare==0.7.5
 streamlit==0.75.0
 matplotlib==3.3.2
